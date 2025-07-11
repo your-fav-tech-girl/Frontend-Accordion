@@ -27,4 +27,4 @@ accordionButton.addEventListener('click', () => {
   }
 });
 // Add event listeners to all accordion buttons
-const accordionButtonsAll = document.querySelectorAll('.accordion-button');
+const accordionButtonAll = document.querySelectorAll('.accordion-button');
